@@ -1,0 +1,6 @@
+name: dart_programing_language_demo
+description: A Dart demo project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
